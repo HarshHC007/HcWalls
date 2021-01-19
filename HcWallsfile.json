@@ -1,5 +1,23 @@
 [
   {
+    "name": "Wall 39",
+    "url": "https://raw.githubusercontent.com/HarshHC007/HcWalls/main/WallsFolder/HcNewWall2.jpg",
+    "collections": "Fluid",
+    "author": "HC"
+  },
+{
+    "name": "Wall 38",
+    "url": "https://raw.githubusercontent.com/HarshHC007/HcWalls/main/WallsFolder/HcNewWall1.jpg",
+    "collections": "Fluid",
+    "author": "HC"
+  },
+{
+    "name": "Wall 37",
+    "url": "https://raw.githubusercontent.com/HarshHC007/HcWalls/main/WallsFolder/HcNewWall.jpg",
+    "collections": "Fluid",
+    "author": "HC"
+  },
+  {
     "name": "Wall 36",
     "url": "https://raw.githubusercontent.com/HarshHC007/HcWalls/main/WallsFolder/GradientPattern1.jpeg",
     "collections": "Pattern,Gradient",
